@@ -1,0 +1,13 @@
+
+"Welcome to this lecture on the periodic table. The periodic table of elements is a chart that arranges all the known chemical elements in an organized way, based on their atomic number, electron configurations and recurring chemical properties. 
+
+The periodic table was first proposed by Russian chemist Dmitri Mendeleev in 1869. He noticed patterns in the properties of elements when they were arranged according to their atomic weights and he used these patterns to predict the existence of undiscovered elements. 
+
+Mendeleev’s original version of the periodic table had gaps for elements that had yet to be discovered. Even after his work was widely accepted, these gaps remained until German chemists Ida Tacke and Walter Noddack set out to find them. 
+
+Their method was unique in that they did not only consider the properties of manganese, but also the elements horizontally adjacent to the missing elements 43 and 75 on the table. By investigating ores containing minerals of ruthenium (Ru), tungsten (W), osmium (Os) and so on, they were able to identify naturally occurring elements which helped complete the period table as we know it today. 
+
+The periodic table is now an essential tool for chemists
+The periodic table is now an essential tool for chemists, providing an organized way to predict the properties of elements and their compounds. It can be used to identify elements in a compound, as well as calculate the relative amounts of each element present. It can also be used to determine the simplest whole-number ratio of atoms in a compound and its structural formula. Ball-and-stick and space-filling models show the geometric arrangement of atoms in a molecule. Isomers are compounds with the same molecular formula but different arrangements of atoms. 
+
+Additionally, group names are assigned to elements based on their placement on the periodic table. Group 1 consists of alkali metals, Group 2 consists of alkaline earth metals, Groups 13–18 consist of main-group elements or representative elements, Groups 3–12 consist of transition metals, and Groups 4–11 consist of inner transition metals. <EOS>
